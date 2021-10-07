@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leonardo Almeida da Silva</h1>
 <h4 align="center">Working from home. Always looking for something to learn.</h4>
 
-- 🌱 I’m currently learning **Docker, Redis, MongoDB and AWS**
+- 🌱 I’m currently learning **Docker, Redis, CosmosDB and Azure**
 
 - 👯 I’m looking to collaborate on [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
 
